@@ -1,0 +1,85 @@
+run cmd--------
+|
+cd Osintgram
+|
+python3 -m venv venv
+|
+source venv/bin/activate
+|
+pip install -r requirements.txt
+|
+make setup
+|
+python3 main.py mathan_iam_not__bad_just_a_evi
+
+
+python3 main.py craz_at_chlm
+
+
+
+
+install------
+  GNU nano 8.0                                                                             Osintgram.txt                                                                                      
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+make setup
+
+####### Setup for Osintgram #######
+Instagram Username: mathan_iam_not__bad_just_a_evi
+Instagram Password: mathan@1234
+
+
+(venv) root@kali:~/insta_info/Osintgram# python3 main.py   mathan_iam_not__bad_just_a_evi
+
+
+python3 main.py  mathan_iam_not__bad_just_a_evi
+
+
+
+
+
+
+
+
+
+git clone https://github.com/Datalux/Osintgram.git
+
+cd Osintgram
+
+python3 -m venv venv
+
+
+On Windows Powershell: .\venv\Scripts\activate.ps1
+
+On Linux and Git Bash: source venv/bin/activate
+
+chmod +x requirements.txt 
+
+pip install -r requirements.txt
+
+Open the credentials.ini file in the config folder and write your Instagram account username and password in the corresponding fields
+
+credentials.ini
+
+config
+
+make setup
+
+11111111111111111111111111111111111
+
+python3 main.py <target username>     anitha__ar
+
+python3 main.py <target
+
+username> --command <command>
+
+
+
+test id mathan_iam_not__bad_just_a_evi
+
+pass  mathan@1234
+

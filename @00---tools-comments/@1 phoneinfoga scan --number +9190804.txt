@@ -1,0 +1,6 @@
+./phoneinfoga scan --number +919080478040
+
+phoneinfoga serve 
+
+
+http://127.0.0.1:5000/#/

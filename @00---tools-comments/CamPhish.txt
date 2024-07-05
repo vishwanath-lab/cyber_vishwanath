@@ -1,0 +1,56 @@
+CamPhish
+
+
+
+@1
+
+./camphish.sh
+
+
+
+  _______  _______  _______  _______          _________ _______          
+ (  ____ \(  ___  )(       )(  ____ )|\     /|\__   __/(  ____ \|\     /|
+ | (    \/| (   ) || () () || (    )|| )   ( |   ) (   | (    \/| )   ( |
+ | |      | (___) || || || || (____)|| (___) |   | |   | (_____ | (___) |
+ | |      |  ___  || |(_)| ||  _____)|  ___  |   | |   (_____  )|  ___  |
+ | |      | (   ) || |   | || (      | (   ) |   | |         ) || (   ) |
+ | (____/\| )   ( || )   ( || )      | )   ( |___) (___/\____) || )   ( |
+ (_______/|/     \||/     \||/       |/     \|\_______/\_______)|/     \|
+  CamPhish Ver 1.7  
+  www.techchip.net | youtube.com/techchipnet  
+
+
+-----Choose tunnel server----
+
+[01] Ngrok
+[02] Serveo.net
+
+[+] Choose a Port Forwarding option: [Default is 1] 1
+
+-----Choose a template----
+
+[01] Festival Wishing
+[02] Live Youtube TV
+[03] Online Meeting
+
+[+] Choose a template: [Default is 1] 1
+
+[+] Enter festival name: amman-kovil
+
+[*] your ngrok authtoken: 2aNPJJbxXD8o0WDvERWbNqHkK6D_6sX9MiQridhhX9uwXZQAT
+version: "2"
+
+[+] Do you want to change your ngrok authtoken? [Y/n]: y
+[+] Enter your valid ngrok authtoken:
+
+
+@2
+    
+open ngrok site click & copy past>>>
+
+   https://dashboard.ngrok.com/get-started/your-authtoken    ===  2inbMIysiusZb956flqzyUUIwkP_5biL9w8SfVSM9XcRhxXZW
+
+
+
+
+

@@ -1,0 +1,8 @@
+
+apt update && apt upgrade -y
+git clone https://github.com/Online-Hacking/Pho...
+cd PhoneInfoga
+pip install -r requirements.txt
+cp config.example.py config.py
+python3 phoneinfoga.py -n +919080478040
+*****************************************
