@@ -1,0 +1,15 @@
+Google Dorking
+
+
+
+site:vsvnpolytechnic.in
+|
+site:vsvnpolytechnic.in -forms
+|
+site:vsvnpolytechnic.in inurl:login
+|
+site:vsvnpolytechnic.in inurl:login intitle:vsvnpolytechnic.in
+|
+site:vsvnpolytechnic.in ext:pptx
+|
+inurl
